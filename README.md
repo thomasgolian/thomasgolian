@@ -1,6 +1,6 @@
 Hey there,
 
-A long time computer hobbyist and pc gamer, studying and getting certifications to pursue a new career in Information Technology.  
+A long time computer/tech hobbyist and enjoyer, studying and getting certifications to pursue a new career in Information Technology.  
 
 Besides computers and tech, I also enjoy team sports, scuba diving, snowboarding, cooking, hiking, fishing, kayaking, and all sorts of cool outdoor activities. I love the ocean and water too :ocean:
 
