@@ -1,5 +1,7 @@
 Hey there,
 
+Update: currently working full-time as an 'IT Technician' for Highland Park Board of Education, NJ. 
+
 A long time computer/tech hobbyist and enjoyer. I'm currently studying, getting a few certifications and homelabbing to start my career in Information Technology. I also worked in tech sales (B2B) for a few years.  
 
 Besides computer tech and some occasional PC gaming, I also enjoy sports, scuba diving, snowboarding, cooking, hiking, fishing, kayaking, and various outdoor activities. I like the ocean and water too :ocean:
