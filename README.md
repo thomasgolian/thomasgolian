@@ -1,14 +1,32 @@
-Hey there,
+Hi, I'm Thomas
 
-Update: currently working full-time as an 'IT Technician' for Highland Park Board of Education, NJ. 
+Network Technician (CCNA) | Building CCNP-Level Labs and starting on ENCOR
 
-A long time computer/tech hobbyist and enjoyer. I'm currently studying, getting a few certifications and homelabbing to start my career in Information Technology. I also worked in tech sales (B2B) for a few years.  
-
-Currently holding CompTIA A+
-
-Thanks for stopping by :sunglasses:
+I'm a network-focused IT professional currently deepening my skills in enterprise networking, with a focus on Layer 2/Layer 3 design, redundancy, and failover.
 
 
+🔧 What I'm Working On
+
+Building hands-on labs based on CCNP ENCOR topics
+
+Designing and validating real-world network scenarios
+
+Documenting configurations, failover testing, and verification
+
+
+🚀 Goals
+
+Transition into a network engineer one day after more years working as a network technician / admin.
+
+Continue building advanced labs and real-world scenarios
+
+Achieve CCNP Enterprise certification
+
+Connect with IT professional and enjoy my journey and meet cool people. 
+
+LinkedIn: 
+
+https://www.linkedin.com/in/thomasgolian/
 
 
 <!--
