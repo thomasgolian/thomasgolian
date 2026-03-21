@@ -16,7 +16,7 @@ Documenting configurations, failover testing, and verification
 
 🚀 Goals
 
-Transition into a network engineer one day after more years working as a network technician / admin.
+Transition into a network engineer one day after more years working as a Network Technician / Analyst.
 
 Continue building advanced labs and real-world scenarios
 
