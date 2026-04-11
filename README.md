@@ -9,6 +9,8 @@ I'm a network-focused IT professional currently deepening my skills in enterpris
 
 Building hands-on labs based on CCNA/CCNP ENCOR topics
 
+Learning Juniper / Junos / JNCIA-Junos
+
 Designing and validating real-world network scenarios
 
 Documenting configurations, failover testing, and verification
