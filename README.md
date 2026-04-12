@@ -1,8 +1,10 @@
 Hi, I'm Thomas
 
-Network Technician (CCNA) | Building CCNA/CCNP-Level Labs and starting on ENCOR
+Network Technician (CCNA) | Building CCNA/CCNP-Level Labs and starting on ENCOR. Dabbling in Junos. 
 
 I'm a network-focused IT professional currently deepening my skills in network operations, with a focus on Layer 2/Layer 3 design, routing protocols, redundancy, failover, and troubleshooting.
+
+<br>
 
 🔧 What I'm Working On
 
@@ -16,6 +18,8 @@ Documenting configurations, failover testing, and verification
 
 Learning the fundamentals of System & Network Monitoring and NetFlow concepts & tools
 
+<br>
+
 🚀 Goals
 
 Develope network engineer level skills one day after more years working as a Network Technician / Analyst. 
@@ -28,6 +32,8 @@ Looking to "cut my teeth" and slowly become a network warrior :)
 (started reading that book)
 
 Connect with IT professionals, enjoy my journey, and meet cool people along the way. 
+
+<br>
 
 LinkedIn: 
 
