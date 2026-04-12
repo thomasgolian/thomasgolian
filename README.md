@@ -16,7 +16,7 @@ Designing and validating real-world network scenarios
 
 Documenting configurations, failover testing, and verification
 
-Learning the fundamentals of System & Network Monitoring and NetFlow concepts & tools
+Learning the fundamentals of system & network monitoring and NetFlow concepts / tools
 
 <br>
 
