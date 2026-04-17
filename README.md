@@ -32,7 +32,7 @@ Continue building advanced labs and real-world scenarios
 
 Achieve CCNP Enterprise certification one day or maybe Juniper
 
-Looking to "cut my teeth" in the networking / IT world
+Looking to "cut my teeth" in the networking
 
 Connect with IT professionals, enjoy my journey, and meet cool people along the way. 
 
