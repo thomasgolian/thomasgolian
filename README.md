@@ -1,12 +1,8 @@
-Hi, I'm Thomas and I've been tinkering on the keyboard since I was a young kid.
 
-Network Technician (CCNA) | Building CCNA/CCNP-Level Labs and starting on ENCOR. Dabbling in Junos. 
-
-I'm a network-focused IT professional currently deepening my skills in network operations, with a focus on Layer 2/Layer 3 design, routing protocols, redundancy, failover, and troubleshooting.
-
-<br>
 
 🔧 What I'm Working On
+
+Windows Server Active Directory Domain configurations with client VMs
 
 iBGP & eBGP
 
@@ -20,13 +16,11 @@ Documenting configurations, failover testing, and verification
 
 Learning the fundamentals of system & network monitoring and NetFlow concepts / tools
 
-Studying Angela Yu's 100-days of Python
-
 <br>
 
 🚀 Goals
 
-Become a network warrior. 
+Continue working as an IT Technician | Network-focused but I also enjoy systems and servers
 
 Continue building advanced labs and real-world scenarios
 
